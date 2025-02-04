@@ -1,0 +1,24 @@
+/* Custom Dashboard Widget Styles */
+.custom-dashboard-widget {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+  }
+  
+  .custom-dashboard-widget p {
+    margin: 0 0 15px 0;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .custom-dashboard-widget strong {
+    color: #2271b1;
+  }
+  
+  .custom-dashboard-widget em {
+    color: #666;
+    display: block;
+    margin-top: 10px;
+    font-style: italic;
+  }
